@@ -1,4 +1,4 @@
-# Study Quiz CLI
+# Study Quiz Game
 
 [![PyPI version](https://badge.fury.io/py/study-quiz-cli.svg)](https://pypi.org/project/study-quiz-cli/)
 
